@@ -8,5 +8,7 @@ Packages included:
 - com.unity.physics
 - com.unity.postprocessing
 - com.unity.rendering.hybrid
+- com.unity.dots.editor
+- com.unity.platforms.windows
 
-See [package.json]() for versions.
+See [package.json](Packages/manifest.json) for versions.
